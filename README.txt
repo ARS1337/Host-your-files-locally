@@ -1,3 +1,4 @@
+This only works locally. i.e on LAN.
 This lets you host your files(txt,jpg,mp3,js,etc.) on your machine, all you need is Node
 
 -Download the repository
